@@ -1,6 +1,6 @@
 # Desktop-Assistant
 
-University of Tahri Mohammed Bechar , Algeria /n
+University of Tahri Mohammed Bechar , Algeria 
 Electrical engineering departement 
 Automation engineering 
 Master 1 
