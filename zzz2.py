@@ -13,9 +13,9 @@ import datetime
 def TalkToMe(audio):
     print (audio)
     tts = gTTS(text=audio, lang='en')
-    tts.save('/home/zaki/Desktop/SpeechRecognition/Data/audio.mp3')
+    tts.save('audio.mp3')
     mixer.init()
-    mixer.music.load('/home/zaki/Desktop/SpeechRecognition/Data/audio.mp3')
+    mixer.music.load('audio.mp3')
     mixer.music.play()
 
 def MyCommands():
